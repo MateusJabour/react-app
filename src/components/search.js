@@ -4,7 +4,7 @@ import React from 'react'
 
 const Search = () => (
   <div className='search'>
-    <input type='search' placeholder='Digite o username' />
+    <input type='search' placeholder='Type an username from GitHub' />
   </div>
 )
 

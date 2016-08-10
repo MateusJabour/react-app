@@ -11,9 +11,9 @@ const UserInfo = () => (
     </h1>
 
     <ul className='repos-info'>
-      <li>Repositorios: 122</li>
-      <li>Seguidores: 10</li>
-      <li>Seguindo: 10</li>
+      <li>Repositories: 122</li>
+      <li>Followers: 10</li>
+      <li>Following: 10</li>
     </ul>
 
   </div>

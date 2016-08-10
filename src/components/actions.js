@@ -4,8 +4,8 @@ import React from 'react'
 
 const Actions = () => (
   <div className='actions'>
-    <button>Ver repositorios</button>
-    <button>Ver favoritos</button>
+    <button>See repositories</button>
+    <button>See starreds</button>
   </div>
 )
 
