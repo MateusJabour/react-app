@@ -1,6 +1,6 @@
 'use strict'
 
-import React, { Proptypes } from 'react'
+import React, { PropTypes } from 'react'
 
 const Repos = ({ className, title, repos }) => (
   <div className={className}>
